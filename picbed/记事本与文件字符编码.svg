@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 记事本与文件字符编码.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.05025in" height="3.4597in"
+		viewBox="0 0 291.618 249.098" xml:space="preserve" color-interpolation-filters="sRGB" class="st10">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#c7c8c8;stroke-dasharray:1.75,1.25;stroke-width:0.25}
+		.st2 {fill:#000000;font-family:Times New Roman;font-size:1.5em}
+		.st3 {font-family:黑体;font-size:1em}
+		.st4 {marker-end:url(#mrkr4-14);stroke:#4672c4;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st6 {fill:#000000;font-family:黑体;font-size:0.75em}
+		.st7 {font-family:Times New Roman;font-size:1em}
+		.st8 {fill:none;stroke:none;stroke-width:0.25}
+		.st9 {fill:#4672c4;font-family:黑体;font-size:1.00001em}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-14" class="st5" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(18.25,-174.156)">
+			<title>矩形</title>
+			<desc>Unicode编码</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="127.559" cy="220.752" width="255.12" height="56.6929"/>
+			<rect x="0" y="192.406" width="255.118" height="56.6929" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="79.07" y="226.74" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Unicode<tspan
+						class="st3">编码</tspan></text>		</g>
+		<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(18.25,-18.25)">
+			<title>矩形.2</title>
+			<desc>UTF-8编码</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="127.559" cy="220.752" width="255.12" height="56.6929"/>
+			<rect x="0" y="192.406" width="255.118" height="56.6929" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="85.06" y="226.74" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>UTF-8<tspan
+						class="st3">编码</tspan></text>		</g>
+		<g id="shape6-9" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(85.0394,-174.156)">
+			<title>动态连接线</title>
+			<path d="M7.09 249.1 L7.09 294" class="st4"/>
+		</g>
+		<g id="shape8-15" v:mID="8" v:groupContext="shape" transform="translate(33.5906,-96.2028)">
+			<title>矩形.8</title>
+			<desc>读取转换为Unicode</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="58.5354" cy="236.091" width="117.08" height="26.0157"/>
+			<rect x="0" y="223.083" width="117.071" height="26.0157" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="16.29" y="239.09" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>读取：转换为<tspan
+						class="st7">Unicode</tspan></text>		</g>
+		<g id="shape11-19" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(99.2126,-109.211)">
+			<title>动态连接线.11</title>
+			<path d="M-7.09 249.1 L-7.09 276.33" class="st4"/>
+		</g>
+		<g id="shape12-24" v:mID="12" v:groupContext="shape" transform="translate(139.89,-127.559)">
+			<title>矩形.12</title>
+			<desc>写入转换为UTF-8</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="58.5354" cy="236.091" width="117.08" height="26.0157"/>
+			<rect x="0" y="223.083" width="117.071" height="26.0157" rx="8.50394" ry="8.50394" class="st1"/>
+			<text x="19.29" y="239.09" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>写入：转换为<tspan
+						class="st7">UTF</tspan><tspan class="st7">-</tspan><tspan class="st7">8</tspan></text>		</g>
+		<g id="shape13-30" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(191.339,-74.9429)">
+			<title>动态连接线.13</title>
+			<path d="M7.09 249.1 L7.09 203.52" class="st4"/>
+		</g>
+		<g id="shape14-35" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(205.512,-153.575)">
+			<title>动态连接线.14</title>
+			<path d="M-7.09 249.1 L-7.09 235.56" class="st4"/>
+		</g>
+		<g id="shape16-40" v:mID="16" v:groupContext="shape" transform="translate(-32.3614,-206.717)">
+			<title>工作表.16</title>
+			<desc>记事本</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76" cy="239.098" width="152.01" height="20"/>
+			<rect x="0" y="229.098" width="152" height="20" class="st8"/>
+			<text x="58" y="243.09" class="st9" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>记事本</text>		</g>
+		<g id="shape17-43" v:mID="17" v:groupContext="shape" transform="translate(-40.5669,-49.6063)">
+			<title>工作表.17</title>
+			<desc>文件</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76" cy="239.098" width="152.01" height="20"/>
+			<rect x="0" y="229.098" width="152" height="20" class="st8"/>
+			<text x="64" y="243.09" class="st9" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>文件</text>		</g>
+	</g>
+</svg>
